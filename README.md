@@ -1,3 +1,4 @@
+-- My table schemata which shows the relationship between the tables
 -- drop table if exist
 
 DROP TABLE departments;
